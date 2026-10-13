@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="5e45531b83bf8310fa2cffd6feaad303" extends="task" label="Test Table" max_length="40" name="x_824985_loaner_0_test_table" type="collection"/>
+</database>
